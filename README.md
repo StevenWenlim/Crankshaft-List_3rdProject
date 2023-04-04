@@ -1,5 +1,5 @@
 # Crankshaft-List_3rdProject
-This project is my project in sprint 2, which is Exploratory Data Analysis.
+This project is my project in sprint 3, which is Exploratory Data Analysis.
 
 In this srpint i learn how to performing an exploratory data analysis to detect patterns in the data and create basic graphs.
 
